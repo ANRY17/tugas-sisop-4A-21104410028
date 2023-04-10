@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410028** |
+| Nama Lengkap | **Asfin Rizaldy** |
 | Kelas | TI-4A |
